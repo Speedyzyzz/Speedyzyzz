@@ -30,31 +30,39 @@ I am a **Product Engineer** based in India who builds high-velocity web platform
 
 ## 🛠️ Flagship Systems & Repositories
 
-### 1. 🎙️ [MeetSync](https://github.com/Speedyzyzz/meetsync) — Enterprise Meeting Intelligence Platform
+### 1. 🤖 [DevAgent](https://github.com/Speedyzyzz/devagent) — Policy-Constrained Autonomous Software-Engineering Runtime
+> **Next.js 15 App Router • React 19 • FastAPI • Python 3.11+ • Sandboxed Tools • 100% Benchmark Resolution**
+- **Autonomous Debugging Runtime:** Governs an LLM through deterministic filesystem exploration, lexical search (`ripgrep` with regex fallback), AST-validated atomic patchers, and subprocess test runners.
+- **Empirical Benchmark Proof:** Tested against a 5-bug benchmark evaluation suite with a **100% verified resolution rate (5/5 bugs passed)** in under 6 turns average.
+- **Defensive Sandbox:** Enforces strict realpath isolation, blocking path traversals (`../../`), external symlink escapes, and `.env`/`.git` access.
+- **Mission Control UI:** Next.js 15 interface streaming real-time Server-Sent Events (SSE) telemetry, collapsible tool accordions, and unified diff syntax viewers.
+- **Verification:** 33/33 automated tests passing across tool contracts, security perimeters, and multi-turn engine loops.
+
+### 2. 🎙️ [MeetSync](https://github.com/Speedyzyzz/meetsync) — Enterprise Meeting Intelligence Platform
 > **Next.js 15 App Router • React 19 • FastAPI • PostgreSQL 16 FTS • Redis 7 • Pydantic v2 • Docker**
 - **Defensive Extraction:** Ingests raw meeting transcripts and audio files with strict Pydantic v2 schemas and prompt injection boundary fences.
 - **7-Stage Finite State Machine:** Managed background processing pipeline (`UPLOADED` → `TRANSCRIBING` → `EXTRACTING` → `INDEXING` → `COMPLETED`) offloaded to asynchronous Redis worker daemons.
 - **Enterprise Isolation:** Multi-tenant PBKDF2/JWT isolation, lexical PostgreSQL `tsvector` full-text search, and bidirectional timestamp citations linking tasks to verbatim transcript lines.
 - **Verification:** 14/14 automated Pytest test suite with passing Next.js production builds.
 
-### 2. 💎 [Prism OS](https://github.com/Speedyzyzz/prism) — AI-Powered Commerce Operating System
+### 3. 💎 [Prism OS](https://github.com/Speedyzyzz/prism) — AI-Powered Commerce Operating System
 > **LangGraph • FastAPI • Next.js 15 • Generative UI • Python 3.11 • Multi-Modal AI**
 - Replaces static eCommerce funnels with an intent-driven conversational commerce agent that understands user context and visual inspiration.
 - Features multi-agent state nodes (Planner, Vision, Retriever, Executor, Reflection) streaming generative UI components and inline checkouts.
 - Includes a Merchant Command Center with real-time fraud risk auditing and review authenticity verification.
 
-### 3. 🛡️ [Axiom](https://github.com/Speedyzyzz/Axiom) — AttackChain AI (Deterministic SOC Investigation)
+### 4. 🛡️ [Axiom](https://github.com/Speedyzyzz/Axiom) — AttackChain AI (Deterministic SOC Investigation)
 > **Python • FastAPI • SQLAlchemy • React Flow • MITRE ATT&CK Mapping • Claude Opus**
 - Reconstructs reproducible attack chains from disparate enterprise security telemetry (VPN logs, authentication events, firewall traces).
 - Uses a deterministic correlation engine rather than relying on hallucination-prone LLM logic for ground truth.
 - Provides interactive investigation graph visualizations and transparent 100-point incident risk confidence scoring.
 
-### 4. 🎯 [Pilot Carrom](https://github.com/Speedyzyzz/pilot-carrom) — Mobile & Web 2D Physics Game
+### 5. 🎯 [Pilot Carrom](https://github.com/Speedyzyzz/pilot-carrom) — Mobile & Web 2D Physics Game
 > **TypeScript • Custom 2D Rigid-Body Physics • Capacitor • Vite • Android & Web**
 - Tournament-feel carrom game featuring custom 2D elastic collision resolution and continuous turn mechanics.
 - Features minimalist tactile HUD, smooth striker dragging controls, procedural Web Audio sound synthesis, and automated Android APK builds.
 
-### 5. 🚀 [CampaignX](https://github.com/Speedyzyzz/Agentic-AI-Hacks) — Autonomous AI Campaign Optimizer
+### 6. 🚀 [CampaignX](https://github.com/Speedyzyzz/Agentic-AI-Hacks) — Autonomous AI Campaign Optimizer
 > **Python • FastAPI • Pydantic • Multi-Agent Loops • Deterministic Metrics**
 - Multi-agent workflow featuring 5 specialized agents that parse briefs, plan distribution schedules, generate variants, and analyze performance deltas.
 - Uses surgical optimization logic to repair only underperforming content dimensions without breaking overall campaign consistency.
