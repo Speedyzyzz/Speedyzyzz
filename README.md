@@ -24,7 +24,7 @@ I am a **Product Engineer** based in India who builds high-velocity web platform
 
 - 💼 **Current Role:** Associate Product Engineer at **Zenthiran** — Architected multi-portal authentication, cross-domain session hydration, and token concurrency barriers.
 - 🏛️ **Previous Experience:** Full Stack & AI Associate at **SNS iHubs** — Built automated multi-agent pipelines and rapid incubator MVPs.
-- 🚀 **Production Proof:** [gdta2026.com](https://gdta2026.com) (Next.js 15 + Three.js 3D WebGL), [woofheaven.vercel.app](https://woofheaven.vercel.app), [balavignesh.dev](https://balavignesh.dev).
+- 🚀 **Production Proof:** [gdta2026.com](https://gdta2026.com) (Next.js 15 + Three.js 3D WebGL), [balavignesh.dev](https://balavignesh.dev).
 
 ---
 
