@@ -1,6 +1,6 @@
 <div align="center">
 
-# Balavignesh (Speedyzyzz)
+# Balavignesh
 
 ### Product Engineer • Full-Stack Systems • Agentic AI Architectures
 
