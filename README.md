@@ -28,6 +28,23 @@ I am a **Product Engineer** based in India who builds high-velocity web platform
 
 ---
 
+## 🌐 Upstream Open Source Engineering
+
+Active core contributor to premier open-source voice AI frameworks and distributed wearable runtimes:
+
+### 🎙️ [LiveKit Agents](https://github.com/livekit/agents) (Core Framework Contributor)
+- **[PR #7976](https://github.com/livekit/agents/pull/7976):** `fix(deepgram): guard empty languages list in multilingual STT decoding` — Prevents fatal IndexError crashes during dynamic language switching in real-time multilingual voice agents. Verified and approved by core maintainer Chenwei Long.
+- **[PR #7978](https://github.com/livekit/agents/pull/7978):** `fix(elevenlabs): propagate non-retryable STT errors instead of swallowing them` — Terminates zombie websocket sessions immediately on fatal auth and input errors instead of looping into reconnection storms.
+
+### 🧠 [BasedHardware Omi](https://github.com/BasedHardware/omi) (Backend Systems Hardening)
+- **[PR #22183](https://github.com/BasedHardware/omi/pull/22183):** `fix(backend): harden memory vector search & hydration pipeline against NoneType crashes and tombstoned vector leaks` — Fails closed against stale/deleted memory vectors, eliminates NoneType score comparison exceptions, and ensures hermetic hydration. Verified and approved by core collaborator David Zhang.
+- **[PR #22220](https://github.com/BasedHardware/omi/pull/22220):** `fix(goals): guard qualitative goals against NoneType compare crashes and coerce suggestion floats` — Hardens AI goal advice pipelines and response schemas against unhandled NoneType comparisons and malformed LLM numerical outputs. Verified and approved by core collaborator David Zhang.
+- **[PR #22836](https://github.com/BasedHardware/omi/pull/22836):** `fix(payment): guard stripe webhook against null metadata and missing item price lookups` — Eliminates unhandled 500 crashes during subscription webhook processing with 100% hermetic unit test verification.
+
+---
+
+---
+
 ## 🛠️ Flagship Systems & Frontier Runtimes
 
 ### 1. ⏱️ [Chronicle](https://github.com/Speedyzyzz/chronicle) — Deterministic Record-and-Replay Runtime for Coding Agents
