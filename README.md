@@ -43,8 +43,6 @@ Active core contributor to premier open-source voice AI frameworks and distribut
 
 ---
 
----
-
 ## 🛠️ Flagship Systems & Frontier Runtimes
 
 ### 1. ⏱️ [Chronicle](https://github.com/Speedyzyzz/chronicle) — Deterministic Record-and-Replay Runtime for Coding Agents
